@@ -1,6 +1,6 @@
 # plasmidContigs\_detector
 
-bacteria plasmid detect.
+bacteria plasmid detect from WGS assembly. (deprecated! Don't use.)
 
 
 # Installation
@@ -11,8 +11,9 @@ bacteria plasmid detect.
 # Requests
 
 + Python3
-+ Biopython, numpy and matplotlib
-+ Perl and Bioperl
+  + Biopython, numpy and matplotlib
++ Perl5
+  + Bioperl
 + cBar: http://csbl.bmb.uga.edu/~ffzhou/cBar/
 + abricate: https://github.com/tseemann/abricate
 + Interproscan: https://www.ebi.ac.uk/interpro/
